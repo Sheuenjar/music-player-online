@@ -1,4 +1,4 @@
-/* video 02:03:38 */
+
 
 import { Link } from "react-router-dom";
 
@@ -38,7 +38,7 @@ return (
     <div className="w-full sm:h-44 h-24" />
   </div>
 
-)
+);
 };
 
 export default DetailsHeader;
